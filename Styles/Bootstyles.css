@@ -1,0 +1,23 @@
+
+  body{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      background-color: darkgray;
+      resize: both;
+      font-size: 20pt;
+  }
+  nav{
+    
+        position: relative;
+        border: 10px solid #041a18;
+        resize: horizontal;
+        color: rgb(79, 94, 15);
+        font-size: 15pt;
+        
+  }
+footer{
+    resize: horizontal;
+    color: cornsilk;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 10pt;
+}

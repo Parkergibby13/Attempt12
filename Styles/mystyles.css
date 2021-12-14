@@ -1,0 +1,10 @@
+body {
+    background-image: url("../Images/home-bg.jpg");
+    font-size:25pt;
+font-weight: bolder;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-stretch: condensed;
+font-variant: small-caps;
+color: brown;
+text-align: justify;
+}
